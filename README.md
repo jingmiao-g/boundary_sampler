@@ -8,3 +8,5 @@ Affiliation: School of Electrical Engineering and Telecommunications, University
 Email: z5182435@ad.unsw.edu.au
 
 Date: 29th 08 2023
+
+![ezgif com-gif-maker](https://github.com/jingmiao-g/boundary_sampler/assets/55825976/377e1c8f-62c9-4420-80b4-ac7d18a3062d)
