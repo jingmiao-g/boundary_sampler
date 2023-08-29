@@ -11,6 +11,6 @@ Date: 29th 08 2023
 
 Demo:
 
-![ezgif com-gif-maker](https://github.com/jingmiao-g/boundary_sampler/assets/55825976/377e1c8f-62c9-4420-80b4-ac7d18a3062d)
+![demo2D](https://github.com/jingmiao-g/boundary_sampler/assets/55825976/941e8887-c39c-4197-8d2f-bffa6c435e64)
 
 The algorithm iteratively samples and refines the data boundary and finally the boundary will be closely tied to the training data
