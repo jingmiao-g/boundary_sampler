@@ -1,5 +1,5 @@
 # Boundary Sampler by Assuming boundary Properties (BSAP)
-This is the PyTorch code for the 2-D demo in our ICASSP2024 submission: SAMPLING BOUNDARY BY ASSUMING ITS PROPERTIES
+This repository includes the PyTorch code for the 2-D demo in our ICASSP2024 submission: SAMPLING BOUNDARY BY ASSUMING ITS PROPERTIES
 
 Authors: Miao JING, Vidhyasaharan Sethu, Beena Ahmed
 
