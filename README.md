@@ -13,4 +13,4 @@ Demo:
 
 ![demo2D](https://github.com/jingmiao-g/boundary_sampler/assets/55825976/941e8887-c39c-4197-8d2f-bffa6c435e64)
 
-The algorithm iteratively samples and refines the data boundary and finally the boundary will be closely tied to the known data. This method helps to solve the problem of unknown in OOD detection or unccertainty quantification.
+The algorithm iteratively samples and refines the data boundary and finally the boundary will be closely tied to the known data. This method helps to solve the problem of unknown in out-of-domain (OOD) detection or uncertainty quantification (UQ).
