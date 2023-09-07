@@ -1,5 +1,5 @@
-# Boundary Sampler by Assuming boundary Properties (BSAP)
-This repository includes the PyTorch code for the 2-D demo in our ICASSP2024 submission: SAMPLING DATA BOUNDARY BY ASSUMING ITS PROPERTIES
+# Probability Gradient based Boundary Sampler (PGBS)
+This repository includes the PyTorch code for the 2-D demo in our ICASSP2024 submission: A PROBABILITY GRADIENT BASED APPROACH FOR SAMPLING BOUNDARIES OF IN-DOMAIN DATA
 
 Authors: Miao JING, Vidhyasaharan Sethu, Beena Ahmed
 
@@ -7,7 +7,7 @@ Affiliation: School of Electrical Engineering and Telecommunications, University
 
 Email: z5182435@ad.unsw.edu.au
 
-Date: 29th 08 2023
+Date: 07th 09 2023
 
 Demo:
 
